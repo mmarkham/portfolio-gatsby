@@ -8,7 +8,7 @@
     - Express
     - MongoDB
   icon: website
-  image: images/marketplace.png
+  image: ../images/marketplace.png
 
 - name: Expense Tracker
   url: https://expense-tracker-mmarkham.herokuapp.com/
@@ -20,7 +20,7 @@
     - Express
     - MongoDB
   icon: website
-  image: images/expensetracker.png
+  image: ../images/expensetracker.png
 
 - name: React Hooks Video Player
   url: https://relaxed-brown-89f5a0.netlify.app/
@@ -31,7 +31,7 @@
     - Hooks
     - YouTube
   icon: website
-  image: images/reacthooks.png
+  image: ../images/reacthooks.png
 
 - name: Outside Encased
   url: https://www.outsideencased.com
@@ -41,4 +41,4 @@
     - Gatsby
     - Node
   icon: website
-  image: images/outsideencased.png
+  image: ../images/outsideencased.png
